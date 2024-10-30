@@ -1,0 +1,2 @@
+#pragma once
+#define LEVELDB_DATA_DIR_PATH "@LEVELDB_DATA_DIR_PATH@"
